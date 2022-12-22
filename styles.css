@@ -13,6 +13,11 @@ img {
     vertical-align: bottom;
 }
 
+button {
+    border: none;
+    background-color: transparent;
+}
+
 body {
     font-family: Roboto, sans-serif;
     font-size: 18px;
